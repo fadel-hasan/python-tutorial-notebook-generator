@@ -106,4 +106,4 @@ Each notebook contains:
 
 ---
 
-Built with ❤️ by [Your Name](https://github.com/fadel-hasan)
+Built with ❤️ by [fadel-hasan](https://github.com/fadel-hasan)
